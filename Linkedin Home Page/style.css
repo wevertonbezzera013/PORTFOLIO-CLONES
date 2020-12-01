@@ -1,0 +1,17 @@
+body{
+    background: #F3F2F0;
+}
+
+nav{
+    background: #FFFFFF;
+}
+
+.icons{
+    display: flex;
+    opacity: 0.5;
+}
+
+.icons:hover{
+    display: flex;
+    opacity: 1;
+}
