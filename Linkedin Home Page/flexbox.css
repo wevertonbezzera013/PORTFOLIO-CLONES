@@ -1,0 +1,17 @@
+.icons{
+    display: flex;
+    text-align: center;
+    padding: 1px;
+    
+    
+}
+.form-control{
+    margin-left: 10px;
+}
+
+span{
+    display: flex;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}

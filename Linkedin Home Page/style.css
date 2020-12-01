@@ -6,12 +6,54 @@ nav{
     background: #FFFFFF;
 }
 
-.icons{
-    display: flex;
+.casa{
+    border-bottom: solid 2px;
+}
+
+.networking{
     opacity: 0.5;
 }
 
-.icons:hover{
-    display: flex;
+.jobs{
+    opacity: 0.5;
+}
+.message{
+    opacity: 0.5;
+}
+
+.notifications{
+    opacity: 0.5;
+}
+
+.profile_text{
+    opacity: 0.5;
+}
+
+.hamburger{
+    opacity: 0.5;
+}
+
+.networking:hover{
     opacity: 1;
 }
+
+.jobs:hover{
+    opacity: 1;
+}
+
+.message:hover{
+    opacity: 1;
+}
+
+.hamburger:hover{
+    opacity: 1;
+}
+
+.notifications:hover{
+    opacity: 1;
+}
+
+.profile_text:hover{
+    opacity: 1;
+}
+
